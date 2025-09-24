@@ -1,8 +1,3 @@
-package com;
-
-import com.shapes.Rectangle;
-import com.shapes.Shape;
-import com.shapes.Square;
 
 public class Main {
 

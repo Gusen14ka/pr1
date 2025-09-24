@@ -1,5 +1,3 @@
-package com.shapes;
-
 public class Rectangle extends Shape {
     private final double width;
     private final double height;

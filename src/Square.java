@@ -1,4 +1,3 @@
-package com.shapes;
 
 public class Square extends Shape {
     private final double side;
